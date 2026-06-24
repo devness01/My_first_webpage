@@ -17,7 +17,7 @@ This is my very **first webpage project**! I built it using only **HTML5 and CSS
 
 ## 🚀 How to Run
 1. Clone or download this repository.
-2. Open the `index.html` file in your browser (like Firefox).
+2. Open the `index.html` file in your browser (like Firefox or Chrome).
 
 ---
 👤 **Created by:** [Ness]
